@@ -1,0 +1,50 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/0r1y_next_dist_compiled_07fpqt1._.js",
+      "static/chunks/0r1y_next_dist_shared_lib_01gvcqd._.js",
+      "static/chunks/0r1y_next_dist_client_0xnugh4._.js",
+      "static/chunks/0r1y_next_dist_0nsropc._.js",
+      "static/chunks/0r1y_next_app_0ft7oz1.js",
+      "static/chunks/[next]_entry_page-loader_ts_07luc7r._.js",
+      "static/chunks/0r1y_react-dom_0gx~7.5._.js",
+      "static/chunks/0r1y_0~fu0g-._.js",
+      "static/chunks/[root-of-the-server]__0iq5tt9._.js",
+      "static/chunks/igrave_pages__app_07xvfw~._.js",
+      "static/chunks/turbopack-igrave_pages__app_0iwhkgi._.js"
+    ],
+    "/_error": [
+      "static/chunks/0r1y_next_dist_compiled_07fpqt1._.js",
+      "static/chunks/0r1y_next_dist_shared_lib_0kbz4jl._.js",
+      "static/chunks/0r1y_next_dist_client_0xnugh4._.js",
+      "static/chunks/0r1y_next_dist_0nokgef._.js",
+      "static/chunks/[next]_entry_page-loader_ts_07jac.7._.js",
+      "static/chunks/0r1y_react-dom_0gx~7.5._.js",
+      "static/chunks/0r1y_0~fu0g-._.js",
+      "static/chunks/[root-of-the-server]__0-id4~b._.js",
+      "static/chunks/igrave_pages__error_07xvfw~._.js",
+      "static/chunks/turbopack-igrave_pages__error_0nbloz9._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0r1y_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0fo.kwc._.js",
+    "static/chunks/0r1y_next_dist_compiled_next-devtools_index_0b8romx.js",
+    "static/chunks/0r1y_next_dist_compiled_react-dom_12ek6vn._.js",
+    "static/chunks/0r1y_next_dist_compiled_react-server-dom-turbopack_0c4.xgz._.js",
+    "static/chunks/0r1y_next_dist_compiled_0-mvjt5._.js",
+    "static/chunks/0r1y_next_dist_client_0psp6kg._.js",
+    "static/chunks/0r1y_next_dist_116._5c._.js",
+    "static/chunks/0r1y_@swc_helpers_cjs_12r.qvl._.js",
+    "static/chunks/igrave_0rqeker._.js",
+    "static/chunks/turbopack-igrave_124g0ib._.js"
+  ]
+};
